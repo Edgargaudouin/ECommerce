@@ -1,5 +1,5 @@
 from django.contrib import admin
-from customers.models import *
+from App.models import *
 # Register your models here.
 admin.site.register(Customer)
 admin.site.register(Product)
